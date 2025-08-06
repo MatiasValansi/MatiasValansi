@@ -32,10 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/>
-  <img src="/tandpfun/skill-icons/raw/main/icons/Babel.svg" alt="babel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Babel.svg" alt="Babel" width="40" height="40"/>
 </p>
 
 ---
