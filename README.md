@@ -6,18 +6,6 @@
 
 ---
 
-### 📫 Contacto:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvalansi)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/)
-
-📧 **Email:** valansimatias@gmail.com  
-📱 **Teléfono:** +54 11 5727 4464
-
----
-
 ### 💻 Lenguajes:
 
 <p align="left">
@@ -48,21 +36,38 @@
 
 ---
 
+### 📫 Contacto:
+
+<a href="https://www.linkedin.com/in/matiasvalansi/" target="blank">
+  <img align="left" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+</a>
+
+<a href="mailto:valansimatias@gmail.com" target="blank">
+  <img align="left" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="50" width="50" />
+</a>
+
+<a href="https://wa.me/541157274464" target="blank">
+  <img align="left" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="50" width="50" />
+</a>
+
+<br clear="left" />
+
+---
+
 ### 🚀 Algunos de mis Proyectos:
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | [**AlethyApp - InterfazGraficaPedidos**](https://github.com/MatiasValansi/InterfazPedidosBeta) | Sistema de gestión de pedidos y de stock con interfaz gráfica en Java Swing | Java, Swing, JPA |
 | [**AGastar! 🤑**](https://github.com/MatiasValansi/AGastar_MVC) | Aplicación ASP.NET MVC para dividir gastos grupales de manera sencilla | ASP.NET MVC, C#, Entity Framework, SQL Server |
-| [**GestorDeTareasAPIRestful**](https://github.com/MatiasValansi/GestorDeTareas-ProyectoFinalTPII) | API RESTful de gestión de tareas con operaciones CRUD completas | Node.js, Express, MongoDB |
+| [**GestorDeTareasAPIRestful**](https://github.com/MatiasValansi/GestorDeTareas-ProyectoFinalTPII) | API RESTful de gestión de tareas con operaciones CRUD completas, autenticación JWT y conexión a MongoDB | Node.js, Express, MongoDB |
 | [**Challenge ForIt**](https://github.com/MatiasValansi/ForIt_Challenge_TaskList) | App de lista de tareas conectada a API RESTful como parte de un challenge técnico fullstack | React, Node.js, Express |
 
 ---
 
 ### 🌱 Actualmente aprendiendo:
 
-- Vue.js 3 y Composition API
-- Mejores prácticas con .NET y Entity Framework
+- React, Vue.js 3 y Composition API
 - Integración de APIs REST
 - Deploy con bases de datos en la nube
-
+- FastAPI
