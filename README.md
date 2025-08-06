@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40"/>
+  <img src="./icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40"/>
 </p>
 
 ---
