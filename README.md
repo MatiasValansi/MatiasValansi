@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy Matías Valansi
+### 👋 Soy Matías Valansi 🧑🏻‍💻
 
 🎓 Estudiante de Analista de Sistemas  
 💻 Apasionado por el desarrollo backend y la creación de soluciones reales con tecnología  
@@ -65,6 +65,7 @@
 | [**AlethyApp - InterfazGraficaPedidos**](https://github.com/MatiasValansi/InterfazPedidosBeta) | Sistema de gestión de pedidos y de stock con interfaz gráfica en Java Swing | Java, Swing, JPA |
 | [**AGastar! 🤑**](https://github.com/MatiasValansi/AGastar_MVC) | Aplicación ASP.NET MVC para dividir gastos grupales de manera sencilla | ASP.NET MVC, C#, Entity Framework, SQL Server |
 | [**GestorDeTareasAPIRestful**](https://github.com/MatiasValansi/GestorDeTareas-ProyectoFinalTPII) | API RESTful de gestión de tareas con operaciones CRUD completas, autenticación JWT y conexión a MongoDB | Node.js, Express, MongoDB |
+| [**Análisis de Artes con IA - Nestlé**](https://github.com/MatiasValansi/ProyectoFinalArtesIA) | App realizada para que usuarios de las empresas pueda cargar artes y esto sean validados mediante IA en base a un manual de marcas | Flutter, Serenity, Supabase, Firebase |
 | [**Challenge ForIt**](https://github.com/MatiasValansi/ForIt_Challenge_TaskList) | App de lista de tareas conectada a API RESTful como parte de un challenge técnico fullstack | React, Node.js, Express |
 
 ---
